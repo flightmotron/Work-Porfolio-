@@ -93,9 +93,8 @@ SSH into the control node and follow the steps below:
 - Update the host file to include websever and elk
 - Run the playbook, and navigate to Kibana [http://52.251.56.102:5601/app/kiban] to check that the installation worked as expected.
 
-_TODO: Answer the following questions to fill in the blanks:_
+_TODO: 
 - _install-elk.yml | ElkServerHost VM
 - _hosts.yml | Groups: When you run playbooks with Ansible, you specify which group to run them on. This allows you to run certain playbooks on some machines, but not on others. _
 - _http://52.251.56.102:5601/app/kiban
 
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._ 
